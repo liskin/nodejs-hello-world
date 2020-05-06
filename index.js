@@ -1,4 +1,5 @@
 // foo
+// bar
 
 var http = require('http');
 
